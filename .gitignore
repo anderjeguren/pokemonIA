@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled python modules
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# TensorBoard log files
+logs/
+
+# Checkpoint files
+model_checkpoint/
+
+# Python log files
+*.log
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+
+# Compiled libraries
+lib/
+lib64/
+
+# Python egg metadata
+*.egg-info/
+dist/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
